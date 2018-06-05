@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Xaamp/php/www/mvc/index.php</file>
+            <file>file:/C:/Xaamp/php/www/mvc/core/Conectar.php</file>
+            <file>file:/C:/Xaamp/php/www/mvc/core/ModeloBase.php</file>
+            <file>file:/C:/Xaamp/php/www/mvc/core/AyudaVistas.php</file>
+            <file>file:/C:/Xaamp/php/www/mvc/model/UsuariosModel.php</file>
+            <file>file:/C:/Xaamp/php/www/mvc/core/EntidadBase.php</file>
+            <file>file:/C:/Xaamp/php/www/mvc/controller/UsuariosController.php</file>
+            <file>file:/C:/Xaamp/php/www/mvc/config/database.php</file>
+            <file>file:/C:/Xaamp/php/www/mvc/view/indexView.php</file>
+            <file>file:/C:/Xaamp/php/www/mvc/core/ControladorFrontal.func.php</file>
+            <file>file:/C:/Xaamp/php/www/mvc/config/global.php</file>
+            <file>file:/C:/Xaamp/php/www/mvc/core/ControladorBase.php</file>
+            <file>file:/C:/Xaamp/php/www/mvc/model/Usuario.php</file>
+        </group>
+    </open-files>
+</project-private>
